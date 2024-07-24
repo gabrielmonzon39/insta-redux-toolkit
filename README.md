@@ -4,4 +4,4 @@ This is a simple example of how to use Redux Toolkit with React. In this example
 instagram like app where we can add posts using redux toolkit.
 
 Here is the final output of the app:
-![app](images/image.png)
+![app](images/app.png)
